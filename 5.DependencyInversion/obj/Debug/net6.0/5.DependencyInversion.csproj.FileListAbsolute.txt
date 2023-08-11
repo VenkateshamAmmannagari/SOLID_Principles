@@ -1,0 +1,15 @@
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\bin\Debug\net6.0\5.DependencyInversion.exe
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\bin\Debug\net6.0\5.DependencyInversion.deps.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\bin\Debug\net6.0\5.DependencyInversion.runtimeconfig.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\bin\Debug\net6.0\5.DependencyInversion.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\bin\Debug\net6.0\5.DependencyInversion.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.csproj.AssemblyReference.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.AssemblyInfo.cs
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\refint\5.DependencyInversion.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\5.DependencyInversion.genruntimeconfig.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\5.DependencyInversion\obj\Debug\net6.0\ref\5.DependencyInversion.dll
