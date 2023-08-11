@@ -1,0 +1,15 @@
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\bin\Debug\net6.0\2.Open.Closed.exe
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\bin\Debug\net6.0\2.Open.Closed.deps.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\bin\Debug\net6.0\2.Open.Closed.runtimeconfig.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\bin\Debug\net6.0\2.Open.Closed.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\bin\Debug\net6.0\2.Open.Closed.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.csproj.AssemblyReference.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.AssemblyInfoInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.AssemblyInfo.cs
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.csproj.CoreCompileInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\refint\2.Open.Closed.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\2.Open.Closed.genruntimeconfig.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\2.Open.Closed\obj\Debug\net6.0\ref\2.Open.Closed.dll
