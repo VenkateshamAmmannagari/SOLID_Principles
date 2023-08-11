@@ -1,0 +1,15 @@
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\bin\Debug\net6.0\4.Interface.Segregation.exe
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\bin\Debug\net6.0\4.Interface.Segregation.deps.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\bin\Debug\net6.0\4.Interface.Segregation.runtimeconfig.json
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\bin\Debug\net6.0\4.Interface.Segregation.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\bin\Debug\net6.0\4.Interface.Segregation.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.csproj.AssemblyReference.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.AssemblyInfoInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.AssemblyInfo.cs
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.csproj.CoreCompileInputs.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\refint\4.Interface.Segregation.dll
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.pdb
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\4.Interface.Segregation.genruntimeconfig.cache
+C:\Users\ammannagari.v\source\repos\ConsoleApps\SolidPrinciples\4.Interface.Segregation\obj\Debug\net6.0\ref\4.Interface.Segregation.dll
